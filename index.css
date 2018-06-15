@@ -68,7 +68,7 @@ background-image: url(images/7.jpg);
 }
 
 .item:nth-of-type(4) .inner .bgPic {
-	background-image: url(../images/4.jpg);
+	background-image: url(images/4.jpg);
 }
 
 .item:nth-of-type(5) .inner .bgPic {
